@@ -1,7 +1,11 @@
 ---
-title: "Analyse des données météo US1TXGS0046"
+title: "Analyse des données météo"
 author: "Adem GHARRAS"
-format: html
+format: 
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
 editor: visual
 ---
 
